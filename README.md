@@ -30,3 +30,4 @@ Confirming that `<link rel="prefetch">` is working or broken can be done by open
 - https://github.com/whatwg/html/pull/8111#issuecomment-1231981093
 - https://www.smashingmagazine.com/2017/11/understanding-vary-header/
 - https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Vary
+- https://www.fastly.com/blog/understanding-vary-header-browser
